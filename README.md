@@ -38,7 +38,7 @@ A propriedade `letter-spacing` é animada de `0.1em` para `0.25em` no hover, dan
 
 A estrutura necessária para o funcionamento dos detalhes animados é:
 
-```html
+```html`
 <button>
     <span>Texto</span>
     <i></i> </button>
